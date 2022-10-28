@@ -4,8 +4,6 @@ Automated Scripts is a repository made for automation and scripting purpose to m
 
 ## Contributing 💡
 
-You can propose a feature request opening an issue or a pull request.
-
 Here is a list of AutomationScripts's contributors:
 
 <a href="https://github.com/Datalux/Osintgram/graphs/contributors">

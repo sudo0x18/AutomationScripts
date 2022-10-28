@@ -1,11 +1,9 @@
 # SQLInjection Scripts
 
-#### Exploiting blind SQL injection by triggering conditional responses
-BlindSQLInjection-ConditionalResponses.py
+#### Exploiting blind SQLInjection by triggering conditional responses
+- BlindSQLInjection-ConditionalResponses.py
 
 ## Contributing 💡
-
-You can propose a feature request opening an issue or a pull request.
 
 Here is a list of AutomationScripts's contributors:
 
