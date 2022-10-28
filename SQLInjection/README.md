@@ -1,7 +1,10 @@
 # SQLInjection Scripts
 
-#### Exploiting blind SQLInjection by triggering conditional responses
-- BlindSQLInjection-ConditionalResponses.py
+#### Exploiting Blind SQLInjection by triggering conditional responses
+- Blind-ConditionResponseBased-SQLInjection.py
+
+#### Exploiting Blind SQLInjection by triggering conditional errors
+- Blind-ConditionErrorBased-SQLInjection
 
 ## Contributing 💡
 
